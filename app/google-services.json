@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006207537484",
+    "project_id": "bioqr-23b79",
+    "storage_bucket": "bioqr-23b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006207537484:android:63ba6063b41afa90973fe9",
+        "android_client_info": {
+          "package_name": "com.example.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006207537484-a3tgoi2mjn33m7ap56ti1nmapr015unf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3GebCgrgijUJpMdoOrz9M_IX83n0c94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006207537484-a3tgoi2mjn33m7ap56ti1nmapr015unf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
